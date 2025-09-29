@@ -1,0 +1,7 @@
+# sample-config.toml - local dev config example (no secrets)
+[server]
+host = "127.0.0.1"
+port = 8080
+
+[logging]
+level = "INFO"
